@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33711.374
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimularCotacaoRedisConsoleApp", "SimularCotacaoRedisConsoleApp.csproj", "{FC81EC9E-6E54-44CF-A41C-B3CF546383EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC81EC9E-6E54-44CF-A41C-B3CF546383EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC81EC9E-6E54-44CF-A41C-B3CF546383EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC81EC9E-6E54-44CF-A41C-B3CF546383EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC81EC9E-6E54-44CF-A41C-B3CF546383EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0147CA47-281A-48A7-A95D-7280DFC3AEC3}
+	EndGlobalSection
+EndGlobal
