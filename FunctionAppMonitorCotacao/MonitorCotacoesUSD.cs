@@ -92,7 +92,7 @@ namespace FunctionAppMonitorCotacao
         private DateTime GetExpiryTime(TaskOrchestrationContext context)
         {
             return context.CurrentUtcDateTime.AddSeconds(Convert.ToInt32(
-                Environment.GetEnvironmentVariable("PollingInterval"))); // Tempo em segundos
+                Environment.GetEnvironmentVariable("ExpiryTime"))); // Tempo em segundos
         }
 
         private int GetPollingInterval()
